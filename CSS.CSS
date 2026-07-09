@@ -146,9 +146,9 @@
       height:36px;
     }
 
-    .tigrão{
+    .Master{
       margin-top:45px;
-      width:370px;
+      width:470px;
       max-width:90%;
       animation:float 3s ease-in-out infinite;
     }
@@ -190,7 +190,7 @@
         height:28px;
       }
 
-      .tigrão{
+      .Master{
         width:240px;
       }
     }
